@@ -1,2 +1,5 @@
 # hasim
-belajar kembali 
+html dasar
+css dasar
+membuat web site dengan bootstrap
+git n github
