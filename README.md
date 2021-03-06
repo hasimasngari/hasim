@@ -1,2 +1,0 @@
-hasim
-urutan belajar
