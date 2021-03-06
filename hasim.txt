@@ -1,7 +1,5 @@
-# hasim
-html dasar
-css dasar
-membuat web site dengan bootstrap
+#RESOLUSI BELAJAR
 git n github
 struktur data base
-larafe
+larafeL
+membuat landing page
