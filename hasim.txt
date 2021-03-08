@@ -1,4 +1,6 @@
 #RESOLUSI BELAJAR
+Html dasar
+Css dasar
 git n github
 struktur data base
 larafeL
