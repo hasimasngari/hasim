@@ -1,6 +1,6 @@
 #RESOLUSI BELAJAR
+Html dasar
 Css dasar
-Bootstrap
 git n github
 larafeL
 membuat landing page
